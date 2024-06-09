@@ -1,4 +1,4 @@
-# EzDiagram Feedback Repository
+# EzDiagram Feedback
 
 Welcome to the EzDiagram Feedback Repository! We're excited to hear your thoughts about our application, which makes creating and customizing Mermaid.js and PlantUML diagrams a breeze.
 
